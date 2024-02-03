@@ -15,37 +15,37 @@ blueprint:
           multiple: false
     button_one_short_press:
       name: Single Press
-      description: Action to run on button 1 single press
+      description: Action to run on button O single press
       default: []
       selector:
         action: {}
     button_two_short_press:
       name: Single Press
-      description: Action to run on button 2 single press
+      description: Action to run on button I single press
       default: []
       selector:
         action: {}
     button_three_short_press:
       name: Single Press
-      description: Action to run on button 3 single press
+      description: Action to run on button 𖤓 single press
       default: []
       selector:
         action: {}
     button_three_long_press:
       name: Long Press
-      description: Action to run on button 3 long press
+      description: Action to run on button 𖤓 long press
       default: []
       selector:
         action: {}
     button_four_short_press:
       name: Single Press
-      description: Action to run on button 4 single press
+      description: Action to run on button ☼ single press
       default: []
       selector:
         action: {}
     button_four_long_press:
       name: Long Press
-      description: Action to run on button 4 long press
+      description: Action to run on button ☼ long press
       default: []
       selector:
         action: {}
